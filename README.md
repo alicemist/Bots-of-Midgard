@@ -37,7 +37,7 @@ Thanks goes to these wonderful people:
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="[CONTRIBUTOR_PROFILE_LINK](https://github.com/sefaozer)"><img src="[CONTRIBUTOR_AVATAR_LINK](https://avatars.githubusercontent.com/u/28008203?v=4)" width="100px;" alt=""/><br /><sub><b>CONTRIBUTOR_NAME</b></sub></a><br /><a href="LINK_TO_CONTRIBUTIONS" title="Code">💻</a> <a href="LINK_TO_BOT" title="Bot">🤖</a></td>
+    <td align="center"><a href="[CONTRIBUTOR_PROFILE_LINK](https://github.com/sefaozer)"><img src="[CONTRIBUTOR_AVATAR_LINK](https://avatars.githubusercontent.com/u/28008203?v=4)" width="100px;" alt=""/><br /><sub><b>CONTRIBUTOR_NAME</b></sub></a><br /><a href="CONTRIBUTOR_PROFILE_LINK" title="Code">💻</a> <a href="LINK_TO_BOT" title="Bot">🤖</a></td>
   </tr>
 </table>
 
