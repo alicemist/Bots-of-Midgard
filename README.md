@@ -36,11 +36,8 @@ Thanks goes to these wonderful people:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="[CONTRIBUTOR_PROFILE_LINK]"><img src="[CONTRIBUTOR_AVATAR_LINK]" width="100px;" alt=""/><br /><sub><b>CONTRIBUTOR_NAME</b></sub></a><br /><a href="CONTRIBUTOR_PROFILE_LINK" title="Code">💻</a> <a href="LINK_TO_BOT" title="Bot">🤖</a></td>
-  </tr>
-</table>
+[![All Contributors](https://img.shields.io/github/all-contributors/alicemisst/Bots-of-Midgard?color=ee8449&style=flat-square)](#contributors)
+
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
