@@ -1,5 +1,5 @@
 {
-  "projectName": "Bots-of-Midgard ",
+  "projectName": "Bots-of-Midgard",
   "projectOwner": "alicemist",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -8,7 +8,7 @@
   "commit": true,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/github/all-contributors/<%= projectOwner %>/<%= projectName %>?color=ee8449&style=flat-square)](#contributors)",
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/github/all-contributors/alicemist/Bots-of-Midgard?color=ee8449&style=flat-square)](#contributors)",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
   "wrapperTemplate": "\n<table>\n  <tbody><%= bodyContent %>  </tbody>\n<%= tableFooterContent %></table>\n\n",
   "types": {
