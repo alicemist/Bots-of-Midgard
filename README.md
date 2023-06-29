@@ -37,7 +37,7 @@ Thanks goes to these wonderful people:
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-[![All Contributors](https://img.shields.io/github/all-contributors/alicemist/Bots-of-Midgard?color=ee8449&style=flat-square)](#contributors)
+
 
 
 <!-- markdownlint-enable -->
