@@ -27,7 +27,7 @@ So what are you waiting for? Join the battle for efficient automation and become
 - [xmlreader](./bots/xmlreader)
 - [productDBRequester](./bots/yunusemre)
 
-Each bot has its own directory where you can find more details about it and its usage.
+Each bot has its own directory where you can find more details about it and its usage
 
 ## Contributors
 
