@@ -39,7 +39,8 @@ Thanks goes to these wonderful people:
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yunusemree55"><img src="https://avatars.githubusercontent.com/u/77694646?v=4" width="100px;" alt=""/><br /><sub><b>Yunus Emre</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yunusemree55"><img src="https://avatars.githubusercontent.com/u/77694646?v=4?s=100" width="100px;" alt="Yunus Emre"/><br /><sub><b>Yunus Emre</b></sub></a><br /><a href="https://github.com/alicemist/Bots-of-Midgard/commits?author=yunusemree55" title="Code">💻</a> <a href="https://github.com/alicemist/Bots-of-Midgard/commits?author=yunusemree55" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://alicemist.github.io/folio/"><img src="https://avatars.githubusercontent.com/u/41231109?v=4?s=100" width="100px;" alt="Ali Cem Özkara"/><br /><sub><b>Ali Cem Özkara</b></sub></a><br /><a href="https://github.com/alicemist/Bots-of-Midgard/commits?author=alicemist" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
