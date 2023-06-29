@@ -10,7 +10,6 @@
   "commit": true,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
-  
   "types": {
     "custom": {
       "symbol": "🔭",
@@ -29,6 +28,15 @@
       "contributions": [
         "code",
         "doc"
+      ]
+    },
+    {
+      "login": "alicemist",
+      "name": "Ali Cem Özkara",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41231109?v=4",
+      "profile": "https://alicemist.github.io/folio/",
+      "contributions": [
+        "code"
       ]
     }
   ],
