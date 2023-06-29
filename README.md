@@ -25,6 +25,7 @@ So what are you waiting for? Join the battle for efficient automation and become
 ## Bots
 
 - [xmlreader](./bots/xmlreader)
+- [productDBRequester](./bots/yunusemre)
 
 Each bot has its own directory where you can find more details about it and its usage.
 
@@ -37,7 +38,7 @@ Thanks goes to these wonderful people:
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="[CONTRIBUTOR_PROFILE_LINK](https://github.com/sefaozer)"><img src="[CONTRIBUTOR_AVATAR_LINK](https://avatars.githubusercontent.com/u/28008203?v=4)" width="100px;" alt=""/><br /><sub><b>CONTRIBUTOR_NAME</b></sub></a><br /><a href="CONTRIBUTOR_PROFILE_LINK" title="Code">💻</a> <a href="LINK_TO_BOT" title="Bot">🤖</a></td>
+    <td align="center"><a href="[CONTRIBUTOR_PROFILE_LINK]"><img src="[CONTRIBUTOR_AVATAR_LINK]" width="100px;" alt=""/><br /><sub><b>CONTRIBUTOR_NAME</b></sub></a><br /><a href="CONTRIBUTOR_PROFILE_LINK" title="Code">💻</a> <a href="LINK_TO_BOT" title="Bot">🤖</a></td>
   </tr>
 </table>
 
